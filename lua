@@ -94,7 +94,7 @@ end)
 
 -- Credits Tab with user info
 local CreditsTab = win:CreateTab("Credits")
-CreditsTab:AddLabel("Discord: auti4sm")
+CreditsTab:AddLabel("Discord: Predictionss")  -- Updated Discord label
 CreditsTab:AddLabel("GitHub: github.com/LanceClocks")
 CreditsTab:AddLabel("This Script Was Made By Clocks🕰️")
 print("Credits tab added with Discord and GitHub info.")
